@@ -13,4 +13,4 @@ and it returns the normalized coordinates rounded to 4 significant digits.
 find_phone.py  takes a single command line argument which is a path to the jpeg image to be tested. ​ ​ This script has to print the normalized
 coordinates of the phone detected on this test image in the format shown below.
 
-Current Implementation produce 96.12% accuracy on the training dataset using a simple cv2.findContours implementation. This is assuming that <5% radius deviation from ground truth is a correct result.
+Current Implementation produces 96.12% accuracy on the training dataset using a simple cv2.findContours implementation. This is assuming that <5% radius deviation from ground truth is a correct result.
