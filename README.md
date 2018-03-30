@@ -14,3 +14,5 @@ Current Implementation produces 96.12% accuracy on the training dataset using a 
 
 Below is a sample of the results:
 
+
+![alt text](https://raw.githubusercontent.com/isakdiaz/findphone_cv/master/sample.jpg)
