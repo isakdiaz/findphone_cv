@@ -8,6 +8,9 @@ $ python find_phone.py ~/find_phone_test_images/51.jpg
 
 0.2551 0.3129
 
+
+![alt text](https://raw.githubusercontent.com/isakdiaz/findphone_cv/master/sample.jpg)
+
 and it returns the normalized coordinates rounded to 4 significant digits. 
 
 find_phone.py  takes a single command line argument which is a path to the jpeg image to be tested. ​ ​ This script has to print the normalized
